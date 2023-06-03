@@ -9,6 +9,7 @@ Downloaded Nessus Essential from Tenable.com, then installed it to my Windows PC
 
 Downloaded an ISO of Windows 10 and set up the virtal machine using VWware with network adapter set to Bridged mode.
 
-Launched the Virtual Windows machine and disabled the firewall. 
+Launched the Virtual Windows machine and disabled the firewall. Copyed the IP address.
 
-Open Nessus and logged in to the localhost
+Open Nessus and logged in to the localhost. Now to create scan.
+Selected Basic Network Scan
